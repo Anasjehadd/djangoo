@@ -1,22 +1,20 @@
-# \# TaskWeek6 - Django Todo App
+TaskWeek6 - Django Todo App
 
-# 
+ 
 
-# This is a simple Django project for Week 6 exercises on URLs and Views.
+ This is a simple Django project for Week 6 exercises on URLs and Views.
 
-# 
 
-# \## Features
+Features
 
-# \- Django URL routing
+ Django URL routing
 
-# \- Function-based views (FBVs)
+ Function-based views (FBVs)
 
-# \- Simple templates (index \& about)
+ Simple templates (index \& about)
 
-# \- Request-response lifecycle demonstration
+ Request-response lifecycle demonstration
 
-# 
 
-# 
+
 
