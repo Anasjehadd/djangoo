@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Page</title>
+    <style>body {background-color: #f3639c; font-family: Arial;}</style>
+</head>
+<body>
+    <h1>form test </h1>
+    <a href="{% url 'first:index' %}">Index</a>
+
+
+    <form method="POST">
+    {% csrf_token %}
+    
+    <input type="text" name="username">
+    <br>
+    <input type="password" name="password">
+    <br>
+    <input type="submit" value="save">
+</form>
+
+</body>
+</html>
